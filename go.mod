@@ -79,7 +79,7 @@ require (
 	google.golang.org/api v0.7.0
 	google.golang.org/genproto v0.0.0-20190708153700-3bdd9d9f5532 // indirect
 	google.golang.org/grpc v1.22.0 // indirect
-	gopkg.in/fsnotify/fsnotify.v1 v1.2.11
+	gopkg.in/fsnotify/fsnotify.v1 v1.4.7
 	gopkg.in/natefinch/lumberjack.v2 v2.0.0-20170531160350-a96e63847dc3
 	gopkg.in/square/go-jose.v2 v2.1.3
 	mvdan.cc/unparam v0.0.0-20190310220240-1b9ccfa71afe // indirect
