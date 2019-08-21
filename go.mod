@@ -81,7 +81,7 @@ require (
 	google.golang.org/grpc v1.22.0 // indirect
 	gopkg.in/fsnotify/fsnotify.v1 v1.2.11
 	gopkg.in/natefinch/lumberjack.v2 v2.0.0-20170531160350-a96e63847dc3
-	gopkg.in/square/go-jose.v2 v2.1.3
+	gopkg.in/square/go-jose.v2 v2.3.1
 	mvdan.cc/unparam v0.0.0-20190310220240-1b9ccfa71afe // indirect
 	sourcegraph.com/sqs/pbtypes v1.0.0 // indirect
 )
