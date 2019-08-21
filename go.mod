@@ -76,7 +76,7 @@ require (
 	golang.org/x/oauth2 v0.0.0-20190604053449-0f29369cfe45
 	golang.org/x/sys v0.0.0-20190712062909-fae7ac547cb7 // indirect
 	golang.org/x/tools v0.0.0-20190712213246-8b927904ee0d // indirect
-	google.golang.org/api v0.7.0
+	google.golang.org/api v0.9.0
 	google.golang.org/genproto v0.0.0-20190708153700-3bdd9d9f5532 // indirect
 	google.golang.org/grpc v1.22.0 // indirect
 	gopkg.in/fsnotify/fsnotify.v1 v1.2.11
