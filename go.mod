@@ -62,7 +62,7 @@ require (
 	github.com/spf13/jwalterweatherman v1.1.0 // indirect
 	github.com/spf13/viper v1.4.0 // indirect
 	github.com/stretchr/objx v0.2.0 // indirect
-	github.com/stretchr/testify v1.3.0
+	github.com/stretchr/testify v1.4.0
 	github.com/timakin/bodyclose v0.0.0-20190713050349-d96ec0dee822 // indirect
 	github.com/ugorji/go v1.1.7 // indirect
 	github.com/valyala/fasthttp v1.4.0 // indirect
