@@ -44,7 +44,7 @@ require (
 	github.com/mbland/hmacauth v0.0.0-20170912224942-107c17adcc5e
 	github.com/mreiferson/go-options v0.0.0-20190302064952-20ba7d382d05
 	github.com/nbutton23/zxcvbn-go v0.0.0-20180912185939-ae427f1e4c1d // indirect
-	github.com/onsi/ginkgo v1.8.0
+	github.com/onsi/ginkgo v1.10.0
 	github.com/onsi/gomega v1.5.0
 	github.com/pelletier/go-toml v1.4.0 // indirect
 	github.com/pkg/errors v0.8.1 // indirect
